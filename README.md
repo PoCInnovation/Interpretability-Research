@@ -1,6 +1,4 @@
-> If you see this section, you've just created a repository using [PoC Innovation's Open-Source project template](https://github.com/PoCInnovation/open-source-project-template). Check the [getting started guide](./.github/getting-started.md).
-
-# [PROJECT'S NAME]
+# Interpretability-Research
 
 [Project's description]
 
@@ -31,11 +29,11 @@ If you're interested in how the project is organized at a higher level, please c
 ## Our PoC team ❤️
 
 Developers
-| [<img src="https://github.com/MrZalTy.png?size=85" width=85><br><sub>[Developer's name]</sub>](https://github.com/MrZalTy) | [<img src="https://github.com/MrZalTy.png?size=85" width=85><br><sub>[Developer's name]</sub>](https://github.com/MrZalTy) | [<img src="https://github.com/MrZalTy.png?size=85" width=85><br><sub>[Developer's name]</sub>](https://github.com/MrZalTy)
-| :---: | :---: | :---: |
+| [<img src="https://github.com/Arcod7.png?size=85" width=85><br><sub>[Antoine Esman]</sub>](https://github.com/Arcod7) | [<img src="https://github.com/DjeridiY.png?size=85" width=85><br><sub>[Yanis Djeridi]</sub>](https://github.com/DjeridiY) | [<img src="https://github.com/Just1truc.png?size=85" width=85><br><sub>[Justin Duc]</sub>](https://github.com/Just1truc) | [<img src="https://github.com/MatthiasvonRakowski.png?size=85" width=85><br><sub>[Matthias von Rakowski]</sub>](https://github.com/MatthiasvonRakowski)
+| :---: | :---: | :---: | :---: |
 
 Manager
-| [<img src="https://github.com/adrienfort.png?size=85" width=85><br><sub>[Manager's name]</sub>](https://github.com/adrienfort)
+| [<img src="https://github.com/agherasie.png?size=85" width=85><br><sub>[Alex Gherasie]</sub>](https://github.com/agherasie)
 | :---: |
 
 <h2 align=center>
